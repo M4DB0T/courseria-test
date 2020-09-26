@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 02EC-A4F7
+
+ Directory of C:\Users\User\courseria-test\site
+
+09/26/2020  06:57 PM    <DIR>          .
+09/26/2020  06:57 PM    <DIR>          ..
+09/26/2020  06:58 PM               127 index.html
+09/26/2020  06:58 PM                 0 listing.txt
+               2 File(s)            127 bytes
+               2 Dir(s)  117,028,990,976 bytes free
